@@ -1,0 +1,244 @@
+.tou{
+	display: none;
+}
+.faa{
+	color:#FF6FA2;
+}
+.clear{
+	clear:both; 
+}
+.nr{
+	width: 100%;
+	height: 180px;
+}
+.jia{
+	!important
+	width: 1rem;
+	height: 1rem;
+	border-radius: 50%;
+	margin-bottom: 0.3rem;
+	background: #fff;
+	text-align: center;
+	width: 100%;
+}
+.jia img{
+	!important 
+	/*width: 1rem;
+	height: 1rem;*/
+	/*margin-bottom: 0.3;*/
+	transition: all 1.1s;
+}
+
+.panel-body{
+	padding: 6px;
+}
+.content{/* 上边距 */
+	margin-top: 0rem;
+}
+.content .hp{
+	height: 3rem;
+}
+.content ul{
+	list-style-type:none;
+	padding: 0px;
+	height: 1rem;
+}
+.content li{
+	float: left;
+	margin-right: 0.2rem;
+	overflow: hidden;
+	line-height:1rem;/*纵向居中*/
+}
+.content .pv{
+	height: 18rem;
+	position:relative;
+}
+.cont_title ul li{
+	font-size: 0.5rem;
+}
+.pv .vnr{
+	height: 15rem;
+	width: 100%;
+}
+.pv p{
+	line-height: 2rem;
+	height: 2rem;
+	margin-top: 1rem;
+	margin-bottom: 0px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+}
+.pv span{
+	color: #fff;
+	font-size: 5rem;
+	border-radius: 50%;
+	position: absolute;
+	top: 5.8rem;
+	left: 50%;
+	margin-left: -2.2rem;
+}
+.tabc{
+	margin-top: 5.4rem;
+	margin-bottom: 5.4rem;
+}
+.tabc .sq{
+	height: 8rem;
+}
+.sq ul{
+	list-style-type:none;
+	padding: 0px;
+	height: 8rem;
+	margin-bottom: 0px;
+}
+.sq li{
+	float: left;
+	margin-right: 1rem;
+	overflow: hidden;
+}
+.sq .stx{
+	width: 8rem;
+	height: 8rem;
+	border-radius: 50%;
+}
+.sq p{
+	font-size: 2rem;
+	margin-bottom: 0px;
+	margin-top: 1rem;
+}
+.sq span{
+	display: block;
+	height: 2rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.pf ul{
+	list-style-type:none;
+	padding: 0px;
+	/*height: 4rem;*/
+	margin-bottom: 0px;
+}
+.pf ul li{
+	margin-right: 0px;
+	width: 33.33%;
+	float: left;
+	text-align: center;
+	overflow: hidden;
+}
+.pf span{
+	vertical-align: middle;//垂直对齐一幅图像：把此元素放置在父元素的中部。
+}
+.pv .vms{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.fb{
+	height: 15rem;
+	width: 100%;
+	background: #fff;
+	position: fixed;
+	left: 0px;
+	bottom: 5rem;
+	display: none;
+}
+.fb ul{
+	height: 6rem;
+	width: 100%;
+	list-style-type:none;
+	margin:6rem auto;
+	padding: 0px;
+}
+.fb li{
+	width: 33.33%;
+	text-align: center;
+	float: left;
+	font-size: 1.5rem;
+	color: #FF6FA2;
+}
+.fb .fwz{
+	font-size: 3rem;
+	color: #FF6FA2;
+}
+.fb i{
+	font-size: 2rem;
+	float: right;
+	margin-right: 1rem;
+}
+.fb a{
+	color: #FF6FA2;
+}
+a:hover{
+	text-decoration: none;
+	color: #000;
+}
+.fb,footer a:hover{
+	text-decoration: none;
+	color: #FF6FA2;
+}
+.ti{
+	height: 5rem;
+	line-height: 5rem;
+	text-align: center;
+}
+.ti span{
+	vertical-align: middle;
+	font-size: 2rem;
+	color: #FF6FA2; 
+}
+.tabb .xx{
+	height: 6rem;
+}
+.xx ul{
+	list-style-type:none;
+	padding: 0px;
+	height: 6rem;
+	margin-bottom: 0px;
+}
+.xx li{
+	float: left;
+	margin-right: 1rem;
+	overflow: hidden;
+}
+.xx .xtx{
+	width: 6rem;
+	height: 6rem;
+	border-radius: 50%;
+}
+.xx span{
+	display: block;
+	height: 2.5rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 1.5rem;
+}
+.nry{
+	height: 5rem;
+	background: #FF6FA2;
+	line-height: 5rem;
+	font-size: 1.5rem;
+}
+.nry span{
+	vertical-align: middle;
+	color: #fff;
+}
+.nrl{
+	margin-left: 2rem;
+}
+.nrc{
+	position: absolute;
+	left: 50%;
+	top:0px;
+	margin-left: -1.25rem;
+}
+.head_img{
+	width: 1rem;
+	height: 1rem;
+}

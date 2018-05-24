@@ -1,0 +1,99 @@
+.wdbj{
+	height: 20rem;
+	width: 100%;
+}
+.wode{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 20rem;
+	width: 100%;
+	background: rgba(0,0,0,0.5);
+}
+.wode .wodetop{
+	list-style-type:none;
+	padding: 0px;
+	height: 15rem;
+	margin-left: 2rem;
+	margin-bottom: 0px;
+}
+.wode .wodetop li{
+	float: left;
+	margin-top: 4rem;
+	margin-right: 1rem;
+	overflow: hidden;
+}
+.wode .wtx{
+	width: 7rem;
+	height: 7rem;
+	border-radius: 50%;
+	border:0.2rem solid #fff;
+}
+.wode .wodetop span{
+	color: #fff;
+	display: block;
+	height: 3rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 1.6rem;
+}
+.wode .wda{
+	line-height: 7rem;
+	color: #fff;
+}
+.wode .wodebt{
+	list-style-type:none;
+	padding: 0px;
+	height: 5rem;
+	margin-bottom: 0px;
+	background: rgba(0,0,0,0.6);
+}
+.wode .wodebt li{
+	height: 5rem;
+	width: 33.33%;
+	float: left;
+	overflow: hidden;
+}
+.wode .wodebt span{
+	color: #FF6FA2;
+	text-align: center;
+}
+.wode .wbt{
+	margin-top: 0.8rem;
+}
+.yhlb{
+	height: 40rem;
+}
+.yhlb ul{
+	list-style-type:none;
+	padding: 0px;
+	height: 40rem;
+	margin-bottom: 0px;
+}
+.yhlb li{
+	height: 5rem;
+	line-height: 5rem;
+}
+.yhlb span{
+	font-size: 2rem;
+	vertical-align: middle;
+	color: #FF6FA2;
+	margin-left: 2rem;
+}
+.yhlb a{
+	font-size: 2rem;
+	color:#ff6fa2;
+}
+.bai{
+	background: #fff;
+}
+.mb{
+	margin-bottom: 1rem;
+}
+.yhdj{
+	line-height: 5rem;
+	float: right;
+	margin-right: 2rem;
+	font-size: 1rem;
+}

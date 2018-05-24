@@ -1,0 +1,33 @@
+footer{
+	height: 2.5rem;
+	width: 100%;
+	background: #fff;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+}
+footer ul{
+	padding-left:0rem;
+	padding-right: 0rem;
+	width: 100%;
+	list-style-type:none;
+	margin:0 auto;
+	margin-bottom: 0px;
+}
+footer li{
+	width: 20%;
+	text-align: center;
+	float: left;
+}
+footer li .xt{
+	height: 50%;
+	font-size: 1rem;/*1.8 ??*/
+	margin-bottom: 0.3rem;
+}
+body {/*内容列表底部内补*/ 
+	padding-bottom: 70px;
+}
+.foot_nav{
+	width: 1.5rem;
+	height:1.5rem;
+}
