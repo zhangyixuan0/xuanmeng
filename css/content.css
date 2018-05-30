@@ -31,6 +31,8 @@
 
 .panel-body{
 	padding: 6px;
+	width: 50%;
+	float: left;
 }
 .content{/* 上边距 */
 	margin-top: 0rem;

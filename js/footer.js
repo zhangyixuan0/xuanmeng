@@ -22,7 +22,7 @@ $(".dh li a").on('click',function(){
 		case 3:
 			index3();
 			break;
-		case 4:
+		case 4://../page/my-home.html
 			index4();
 			break;
 		default:
@@ -52,4 +52,8 @@ function index3(){
 				"<li class='navli'><a href='javascript:void(0)'>C会计从业</a></li>";
 	$(".clearfix").html(htm);
 	$('.wrapper').navbarscroll();
+}
+function index4(){
+	//效验用户是否登录
+	//window.location.href="login.html";
 }
