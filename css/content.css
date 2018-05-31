@@ -58,6 +58,12 @@
 .cont_title ul li{
 	font-size: 0.5rem;
 }
+.cont_title ul li span{
+	font-size: 0.2rem;
+}
+.com_img{
+	width: 100%;
+}
 .pv .vnr{
 	height: 15rem;
 	width: 100%;
@@ -128,7 +134,7 @@ a{
 }
 .pf ul li{
 	margin-right: 0px;
-	width: 33.33%;
+	width: 50%;
 	float: left;
 	text-align: center;
 	overflow: hidden;

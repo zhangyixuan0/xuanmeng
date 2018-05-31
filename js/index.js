@@ -8,4 +8,5 @@ $(document).ready(function(){
 	$.get("../common/footer.html",function(data){
 		$(".footer").html(data);
 	});
+	$('.waterfall').waterfall();
 })
